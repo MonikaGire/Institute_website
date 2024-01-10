@@ -1,0 +1,19 @@
+/* Learning section */
+.learning .part1{
+    background-color: #eb144c;
+    padding: 100px;
+}
+.learning .part2{
+    background-color: black;
+    padding: 50px;
+}
+.learning .part2 .card{
+  margin: 10px;
+  width: 250px;
+} 
+/* .learning .part2 .card .icon{
+  height: 70px;
+  border: 3px solid #eb144c;
+  color: #eb144c;
+  size: 20px;
+} */

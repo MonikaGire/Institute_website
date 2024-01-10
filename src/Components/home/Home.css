@@ -1,0 +1,16 @@
+  /* Home section */
+  .home-img{
+  
+    background-repeat:no-repeat ;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+   }
+  /* .home-bg button{
+    position: absolute;
+    border-radius:15px;
+    bottom: 8px;
+	  left: 500px;
+  } */
+
+

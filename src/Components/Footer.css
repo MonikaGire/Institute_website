@@ -1,0 +1,49 @@
+.footer-top{
+    display: flex;
+    color: white;
+    background-color: rgb(1, 19, 36);
+    padding: 20px;
+    justify-content: center;
+
+}
+/* .footer-top .heading{
+display: inline;
+} */
+.footer-top span{
+    
+    border-left: 4px solid ;
+  height: 1500px;
+    color: #eb144c;
+    margin: 5px;
+    
+}
+.footer-top.label{
+    margin: 1000px;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+.footer-top .f-link{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    margin: 15px;
+    font-size: 15px;
+}
+
+
+.footer-top .pages :hover{
+    color: #eb144c;
+
+}
+.footer-top .help :hover{
+    color: #eb144c;
+
+}
+.footer-bottom{
+    display: block;
+    background-color: rgb(57, 71, 116);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

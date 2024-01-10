@@ -1,0 +1,36 @@
+/* home-future section */
+
+.home-future h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;  
+  }
+  
+  .home-future .bgimage{
+    background-repeat:no-repeat ;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+   
+    position: relative;
+  }
+  .home-future .content{
+    background: rgb(12, 12, 12); /* Fallback color */
+    background: rgba(238, 69, 125, 0.575); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    height:100vh;
+    padding: 20px;
+    top:0;
+    bottom: 0;
+  }
+  .home-future p{
+    margin: 30px;
+  
+    text-align: center;
+  }
+  .home-future .button{
+   position: absolute;
+  
+    
+  }

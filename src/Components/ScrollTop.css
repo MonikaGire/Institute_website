@@ -1,0 +1,12 @@
+.scrolltop .icon {
+    position: fixed;  
+   /* width: 100%;  */
+   left: 45%; 
+   bottom: 40px; 
+   font-size: 3rem; 
+   z-index: 1; 
+   cursor: pointer; 
+   color: white;
+   background-color: rgb(128, 0, 49); 
+   border-radius: 50%;
+}

@@ -1,0 +1,33 @@
+/* Courses section */
+.courses{
+    display: flex;
+    justify-content: center;
+  }
+  .courses .card{
+      display: flex;
+      border-radius: 20px;
+      margin: 20px;
+      width: 300px;
+      padding-bottom: 20px;
+      box-shadow: 0 0 10px 0 rgb(156, 150, 150);
+  }
+  .courses h5{
+      font-size: 30px;
+      font-weight: bold;
+      color: #b91b48;
+      text-align: center;
+  }
+  .courses h1{
+  
+      font-weight: bold;
+      text-align: center;
+  }
+  .courses h6{
+      font-weight: bold;
+      font-size: 1.2em;
+      margin-top: 10px;
+      text-align: center;
+  }
+  .courses hr{
+      border: 1px dashed;
+  }

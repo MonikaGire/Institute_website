@@ -1,0 +1,21 @@
+/* Testimonials section */
+/* .testmonials{
+ 
+  padding: 50px;
+} */
+.testmonials .card{
+    padding: 20px;
+    width: 100%;
+    }
+    .testmonials h5{
+      font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .testmonials h1{
+      font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+     

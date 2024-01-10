@@ -1,0 +1,24 @@
+.login input {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    /* border: 1px solid #2681eb; */
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .login .card{
+    border-radius: 0;
+  }
+.login h3{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+.login .forgot-password{
+    text-decoration: none;
+}
+
+  
+  

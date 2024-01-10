@@ -1,0 +1,26 @@
+/* choose-us */
+.choose-us{
+    padding: 20px;
+  }
+  .choose-us .wrap-text{
+    background-color: #fff;
+    padding: 15px;
+    color: #eb144c;
+  }
+  .choose-us .icon{
+    float: inline-end;
+  
+  }
+  .choose-us .underline
+  {
+  
+    margin: 10px auto;
+    max-width: 300px;
+    height: 2px;
+    border: 2.5px solid #eb144c;
+  
+  
+  }
+  .heading{
+    color: #eb144c;
+  }

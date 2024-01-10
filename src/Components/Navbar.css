@@ -1,0 +1,49 @@
+/* Top section */
+.header{
+    color: white;
+    padding: 5px;
+    background-color:  rgb(1, 19, 36);;
+
+  }
+  .social{
+   
+    float: right;
+  }
+  .icon{
+    
+    margin: 8px;
+  }
+  /* Navbar css */
+    .navbar-header{
+      box-shadow: 0 0 10px 0 rgb(156, 150, 150);
+      
+  }
+  .navItem{
+      display: inline-block;
+      font-weight: 500;
+      color: black;
+      padding: 5px;
+      /* margin:auto; */
+  }
+  .logo{
+    padding: 30px;
+  }
+  .navItem:hover {  
+    margin: 0;   
+    border-bottom: 2px solid #036b72;
+    }
+    .login{
+      margin: 15px;
+      
+    }
+    @media only screen and (max-width:767px){
+      .navbar-header{
+       width: 100%;
+       text-align: center;
+      }
+      /* .navbar-toggle {
+        display: block;
+    } */
+    }
+
+   

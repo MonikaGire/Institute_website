@@ -1,0 +1,55 @@
+.about .heading{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.about .title{
+  background: rgb(12, 12, 12); /* Fallback color */
+  background: rgba(238, 69, 125, 0.575); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  height: 100%;
+ 
+}
+.about h1{
+    padding-top: 80px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.about-icon
+  {
+    align-self: center;
+    color: white;
+    background-color: #eb144c;
+    background-size: 300px;
+    size: 50;
+    border-radius: 50%;
+    padding: 10px;
+
+  }
+
+  .about .container{
+    display: flex;
+    justify-content: center; 
+  }
+.about .card
+{
+  display: flex;
+  justify-content: center;  
+  padding: 35px;
+  margin: 20px;
+  border-color: #eb144c;
+  border-width: 0.1cm;
+  border-radius: 20px;
+  width: 300px;
+  background-color: #f3fdfd;
+  text-align: center;
+  transition: transform .2s;
+}
+.about.card:hover{
+    transform: scale(1.1);
+    outline: none;
+}
